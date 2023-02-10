@@ -10,7 +10,7 @@ services:
     env_file:
       - ./.env
   web:
-    image: lkaydalov/web_auto:latest
+    image: lkaydalov/web_auto_redoc:latest
     restart: always
     volumes:
       - static_value:/app/static/
