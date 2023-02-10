@@ -10,6 +10,7 @@ services:
     env_file:
       - ./.env
   web:
+
     image: lkaydalov/web_auto_redoc:latest
     restart: always
     volumes:
