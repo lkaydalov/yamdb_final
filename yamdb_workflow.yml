@@ -54,7 +54,7 @@ jobs:
         with:
           context: ./api_yamdb
           push: true
-          tags: lkaydalov/web_auto:latest
+          tags: lkaydalov/web_auto_redoc:latest
 
   deploy:
 
