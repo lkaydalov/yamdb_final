@@ -2,7 +2,8 @@
 
 ## Ссылка на развернутый проект
 ```
-http://lkaydalov.serveblog.net/
+http://158.160.24.105/admin/
+http://lkaydalov.serveblog.net/admin/
 ```
 
 # Проект YaMDb
