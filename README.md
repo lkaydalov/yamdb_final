@@ -1,5 +1,10 @@
 ![yamdb_final workflow](https://github.com/lkaydalov/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
 
+## Ссылка на развернутый проект
+```
+http://lkaydalov.serveblog.net/
+```
+
 # Проект YaMDb
 Сервис для сбора отзывов пользователей о различных произведениях.
 ## Описание
@@ -15,7 +20,7 @@ scp -r nginx/ <your_username>@<your_server_ip>:/home/<your_server_login>
 ```
 - Если на сервере уже запущен nginx - остановите его
 ```
-sudo system ctl stop nginx
+sudo systemctl stop nginx
 ```
 - Загрузите на сервер последний образ web
 ```
